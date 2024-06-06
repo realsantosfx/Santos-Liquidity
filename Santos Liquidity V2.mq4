@@ -1,9 +1,9 @@
 //+------------------------------------------------------------------+
-//|                                                    Santos OB.mq4 |
+//|                                          Santos Liquidity V2.mq4 |
 //|                                         Copyright 2024, SantosFX |
 //|                                                     realsantosfx |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2024, SantosFX for Edge Trader 007"
+#property copyright "Copyright 2024, SantosFX"
 #property link      "realsantosfx"
 #property version   "1.00"
 #property strict
